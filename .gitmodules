@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "packcircles"]
+	path = packcircles
+	url = https://github.com/mbedward/packcircles
+	shallow = true
+	registered = true
